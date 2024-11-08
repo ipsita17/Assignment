@@ -31,4 +31,4 @@ To run the application:
 2. Run the `Main` class:
    ```shell
    javac Main.java
-   java Main```
+   java Main
